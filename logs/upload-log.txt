@@ -1,0 +1,220 @@
+=== 2012-05-05 19:43:49 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ayoj128a.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpJjHWVc
+            [error] => 0
+            [size] => 55681
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-05 20:28:51 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => ayoj128a.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpyvZLi5
+            [error] => 0
+            [size] => 55681
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 20:49:23 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => garfield_derp.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/php2swEYv
+            [error] => 0
+            [size] => 11189
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 22:12:33 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => garfield_derp.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phph3MFnK
+            [error] => 0
+            [size] => 11189
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 22:17:48 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => garfield_derp.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpcfmlgu
+            [error] => 0
+            [size] => 11189
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 22:46:14 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => garfield_derp.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpyBlTF6
+            [error] => 0
+            [size] => 11189
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 22:53:01 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 399065_3292205858534_1069408422_33084674_1317687376_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpAzfVgD
+            [error] => 0
+            [size] => 24662
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 22:59:13 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => 399065_3292205858534_1069408422_33084674_1317687376_n.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpsQnxe9
+            [error] => 0
+            [size] => 24662
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-18 23:00:44 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => garfield_derp.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpvw4l2R
+            [error] => 0
+            [size] => 11189
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+
+=== 2012-05-19 10:14:38 ===============================
+FILES:Array
+(
+    [xfile] => Array
+        (
+            [name] => garfield_derp.jpg
+            [type] => image/jpeg
+            [tmp_name] => /private/var/tmp/phpj9TJ29
+            [error] => 0
+            [size] => 11189
+        )
+
+)
+
+POST:Array
+(
+    [post] => /gallery/upload/
+    [width] => 220
+    [height] => 345
+    [crop] => true
+)
+

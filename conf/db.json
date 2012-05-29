@@ -1,0 +1,8 @@
+{
+"engine":   "mysql",
+"username": "gallery",
+"password": "jGuKpLVC",
+"database": "gallerydb",
+"hostname": "localhost",
+"port":      null
+}
